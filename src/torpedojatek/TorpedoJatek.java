@@ -5,7 +5,6 @@ public class TorpedoJatek {
     public static void main(String[] args) {
         System.out.println("Teszt");
         new TorpedoJatek().tesztLovesTalalt(4);
-//        assert 1 == 2 : "nem jó a találat ellenőrzése";
     }
 
     public String tesztLovesTalalt(int poz) {
